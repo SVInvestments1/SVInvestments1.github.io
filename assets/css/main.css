@@ -3860,7 +3860,7 @@
 				.box .image.featured {
 					border-radius: 0;
 					margin-left: -1em;
-					width: calc(100% + 2em);
+					width: calc(100%);
 				}
 
 					.box .image.featured img {
