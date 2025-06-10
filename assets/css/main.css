@@ -2451,6 +2451,8 @@
 	}
 
 		.image img {
+			max-width: 100%;
+			height: auto;
 			border-radius: 6px;
 			display: block;
 		}
@@ -3860,7 +3862,7 @@
 				.box .image.featured {
 					border-radius: 0;
 					margin-left: -1em;
-					width: calc(100%);
+					width: calc(100% + 2em);
 				}
 
 					.box .image.featured img {
