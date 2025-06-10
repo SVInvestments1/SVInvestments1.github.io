@@ -3741,8 +3741,9 @@
 				padding: 4em 0;
 			}
 
-				#banner h2 {
-					font-size: 2.25em;
+				#banner h2 img {
+					max-width: 100%; 
+     				   	height: auto;
 				}
 
 				#banner p {
